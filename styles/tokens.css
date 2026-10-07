@@ -1,0 +1,56 @@
+:root {
+  --bg: #F6F3EE;
+  --surface: #FBFAF7;
+  --surface-elevated: #FFFFFF;
+  --surface-sunken: #EFEBE4;
+  --ink: #1D2421;
+  --text-secondary: #4A5550;
+  --text-muted: #68736D;
+  --border: #DDD7CC;
+  --border-strong: #C5BEB0;
+  --primary: #2E4A42;
+  --primary-hover: #253D36;
+  --primary-active: #1D312B;
+  --primary-tint: #E3EAE6;
+  --secondary: #3F5568;
+  --accent: #B4633F;
+  --accent-tint: #F3E4DB;
+  --success: #3E7A58;
+  --success-tint: #E1EEE6;
+  --warning: #B78A2B;
+  --warning-tint: #F5ECD3;
+  --error: #A8453B;
+  --error-tint: #F4DEDA;
+  --info: #3F5568;
+  --dark-bg: #151B19;
+  --dark-surface: #1D2522;
+  --on-dark: #EDE9E0;
+  --focus-ring: #2E4A42;
+
+  --r-xs: 4px;
+  --r-sm: 6px;
+  --r-md: 10px;
+  --r-lg: 14px;
+
+  --sh-1: 0 1px 0 rgba(29,36,33,.04), 0 1px 2px rgba(29,36,33,.05);
+  --sh-2: 0 4px 12px rgba(29,36,33,.07);
+  --sh-3: 0 16px 40px rgba(29,36,33,.12);
+
+  --dur-fast: 120ms;
+  --dur-med: 220ms;
+  --dur-slow: 420ms;
+  --dur-story: 700ms;
+
+  --ease-out: cubic-bezier(.22,.8,.24,1);
+  --ease-in-out: cubic-bezier(.65,0,.35,1);
+  --ease-snap: cubic-bezier(.3,1.2,.4,1);
+
+  --z-sticky: 20;
+  --z-nav: 30;
+  --z-demo: 40;
+  --z-drawer: 60;
+  --z-modal: 70;
+  --z-toast: 80;
+  --z-lens: 90;
+  --z-loader: 100;
+}
